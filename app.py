@@ -22,8 +22,8 @@ with pdfplumber.open('resumeTest.pdf') as pdf:
             1. A score out of 10 for the resume against the job description
             2.Summarise the strengths of the resume
             3.Summarise the weaknesses of the resume
-            4.Give a match score as a percentage for the resume against the job description
-            5.Give missing skills
+            4.Provide a match score as a percentage for the resume against the job description
+            5.Provide missing skills
 
             Resume:
 
@@ -35,8 +35,6 @@ with pdfplumber.open('resumeTest.pdf') as pdf:
 
             """
         )
-        
-        
-        
+               
 print(response.output_text)
 

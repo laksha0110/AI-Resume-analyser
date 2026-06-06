@@ -38,11 +38,8 @@ py app.py
 ```
 
 ## Example Output
+![Screenshot](resumeOutput.png)
 
-* Match Score
-* Strengths & Weaknesses
-* Missing Skills
-  
 ## Future Improvements in mind
 
 * Streamlit UI

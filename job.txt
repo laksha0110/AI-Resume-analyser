@@ -1,0 +1,44 @@
+Software Engineer – Backend Developer
+
+Location: Hamburg, Germany
+
+About the Role
+
+We are seeking a motivated Software Engineer to join our backend engineering team. The ideal candidate will be responsible for designing, developing, and maintaining scalable software systems and APIs.
+
+Responsibilities
+
+* Develop and maintain backend applications using Python.
+* Design and optimize SQL databases.
+* Build REST APIs and microservices.
+* Collaborate with frontend developers, product managers, and QA teams.
+* Write clean, maintainable, and testable code.
+* Participate in code reviews and agile development processes.
+* Troubleshoot and resolve production issues.
+* Contribute to system architecture and technical design discussions.
+
+Required Qualifications
+
+* Bachelor’s degree in Computer Science or related field.
+* Strong proficiency in Python.
+* Experience with SQL and relational databases.
+* Experience with Git and version control workflows.
+* Understanding of REST APIs.
+* Knowledge of Docker and containerization.
+* Strong problem-solving and communication skills.
+
+Preferred Qualifications
+
+* Experience with AWS cloud services.
+* Experience with PostgreSQL.
+* Knowledge of CI/CD pipelines.
+* Familiarity with Kubernetes.
+* Experience with automated testing frameworks.
+
+Benefits
+
+* Competitive salary
+* Flexible working hours
+* Professional development budget
+* Modern technology stack
+* Hybrid work environment

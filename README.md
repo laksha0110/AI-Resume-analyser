@@ -1,2 +1,2 @@
-# ai-resume analyser
-AI powered resume analyser using python and OpenAI
+# Resume_Analyser
+AI-powered resume analyser using python and OpenAI

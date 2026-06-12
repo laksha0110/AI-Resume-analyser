@@ -40,7 +40,7 @@ py app.py
 ## Example Output
 ![Screenshot](resumeOutput.png)
 
-##New updates
+
 
 # My Streamlit App
 

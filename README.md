@@ -40,8 +40,21 @@ py app.py
 ## Example Output
 ![Screenshot](resumeOutput.png)
 
-## Future Improvements in mind
+##New updates
 
-* Streamlit UI
-* Interview Question Generator
-* Resume Upload Feature
+# My Streamlit App
+
+A web app powered by GPT-5.
+
+## Live App
+
+[https://your-app-name.streamlit.app](https://ai-resume-analyser-firstproject.streamlit.app/)
+
+## Updates
+
+### June 2026
+- Added GPT-5 integration
+- Improved response speed
+- Fixed API key handling for Streamlit deployment
+
+

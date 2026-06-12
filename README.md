@@ -5,7 +5,7 @@ A Python application that analyses resumes against job description using AI.
 ## Features
 
 * Extracts text from PDF resumes generated using AI
-* Compares resumes with job descriptions generated using AI
+* Compares resumes with a job description generated using AI
 * Identifies missing skills
 * Provides Strengths and weaknesses
 * Generates AI-powered feedback
@@ -38,11 +38,8 @@ py app.py
 ```
 
 ## Example Output
+![Screenshot](resumeOutput.png)
 
-* Match Score
-* Strengths & Weaknesses
-* Missing Skills
-  
 ## Future Improvements in mind
 
 * Streamlit UI
